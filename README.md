@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Softwear engineer 🤔
 <!--
 **Nkchrs/Nkchrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
