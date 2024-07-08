@@ -1,6 +1,6 @@
 ## Hi there 👋
-Softwear engineer 🤔,
-Jeune développeur web full-stack en reconversion, passionné par la création de visuels innovants et l'utilisation des dernières technologies pour développer des applications web robustes et attrayantes.
+Softwear engineer 🤔,	
+Jeune développeur web full-stack en reconversion, passionné par la création de visuels innovants et l'utilisation des dernières technologies pour développer des applications web robustes et attrayantes.	
 Stacks : 
 -React.js
 -Node.js
