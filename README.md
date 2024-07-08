@@ -6,7 +6,7 @@ Jeune développeur web full-stack en reconversion, passionné par la création d
 
 Stacks : 
 
--React.
+-React.js
 
 -Node.js
 
